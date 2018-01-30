@@ -7,7 +7,7 @@
     "socket.io": "^2.0.4"
   },
  "scripts": {
-    "start": "nodeindex.js"
+    "start": "index.js"
   },
   "main": "server.js"
 }
